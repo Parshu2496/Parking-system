@@ -17,6 +17,10 @@ To get a copy of this project up and running on your local machine, follow these
 2. **Open the File:**
    Open the File Parking_managment.exe file in command prompt. It will open the file in binary mode. If you run the file in vs code or other application it may not print the correct output because they do not read the file in binary mode.
 
+## Working
+1. Compile The Parking_managment.c file after cloning in your pc to Parking_managment.exe.
+2. Open the Parking_managment.exe file through terminal so it could read and write in binary.
+3. choose the option you want 
 ## Features
 - User Information: Takes the Information of vechiles.
 - Parking fees Managment: Distribute the fees for your vechile.
