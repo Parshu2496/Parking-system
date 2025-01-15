@@ -153,6 +153,7 @@ void bus()
 
     fwrite(&v, sizeof(v), 1, fp);
     fclose(fp);
+    
     nob++;
     amount = amount + 70;
     count++;
