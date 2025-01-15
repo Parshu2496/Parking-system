@@ -30,7 +30,7 @@ int main()
         printf("Enter your choice\n");
         printf("1. Enter bus\n");
         printf("2. Enter cycle\n");
-        printf("3. Enter riksha\n");
+        printf("3. Enter Riksha or car\n");
         printf("4. Status\n");
         printf("5. delete data\n");
         printf("6. Show data\n");
