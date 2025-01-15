@@ -7,7 +7,16 @@ The Parking System Project is a C language application designed to simulate a pa
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Contributing](#contributing)
-  
+
+## Getting Started
+To get a copy of this project up and running on your local machine, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   https://github.com/Parshu2496/Parking-system.git
+2. **Open the File:**
+   Open the File index.exe file in command prompt. It will open the file in binary mode. If you run the file in vs code or other application it may not print the correct output because they do not read the file in binary mode.
+
 ## Features
 - User Information: Takes the Information of vechiles.
 - Parking fees Managment: Distribute the fees for your vechile.
