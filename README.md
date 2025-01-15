@@ -21,7 +21,7 @@ To get a copy of this project up and running on your local machine, follow these
 1. Compile The Parking_managment.c file after cloning in your pc to Parking_managment.exe.
 2. Open the Parking_managment.exe file through terminal so it could read and write in binary.
 3. choose the option you want.
-   ![Image](Screenshot 2025-01-15 194304.png)
+   ![Image](https://github.com/Parshu2496/Parking-system/blob/main/Screenshot%202025-01-15%20194304.png)
 5. Enter the car Details as asked.
 6. Enter 4 to check revenue of full day.
 7. Enter 6 to check data of cars.
