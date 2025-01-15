@@ -22,10 +22,13 @@ To get a copy of this project up and running on your local machine, follow these
 2. Open the Parking_managment.exe file through terminal so it could read and write in binary.
 3. choose the option you want.
    ![Image](https://github.com/Parshu2496/Parking-system/blob/main/Screenshot%202025-01-15%20194304.png)
-5. Enter the car Details as asked.
-6. Enter 4 to check revenue of full day.
-7. Enter 6 to check data of cars.
-8. Enter 7 to exit the program.
+4. Enter the car Details as asked.
+ ![Image](https://github.com/Parshu2496/Parking-system/blob/main/Screenshot%202025-01-15%20194518.png)
+5. Enter 4 to check revenue of full day.
+ ![Image](https://github.com/Parshu2496/Parking-system/blob/main/Screenshot%202025-01-15%20194623.png)
+6. Enter 6 to check data of cars.
+ ![Image](https://github.com/Parshu2496/Parking-system/blob/main/Screenshot%202025-01-15%20194526.png)
+7. Enter 7 to exit the program.
 ## Features
 - User Information: Takes the Information of vechiles.
 - Parking fees Managment: Distribute the fees for your vechile.
